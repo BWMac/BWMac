@@ -1,5 +1,11 @@
 ## Hi, I'm Brad 👋
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/bwm/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ### 💻 **Research Software Engineer at [Sage Bionetworks](https://github.com/Sage-Bionetworks)**
 
 I'm passionate about building software that enables Scientists to conduct research and share their data openly.
