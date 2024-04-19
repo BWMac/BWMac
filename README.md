@@ -2,7 +2,7 @@
 
 #### Research Software Engineer at [Sage Bionetworks](https://github.com/Sage-Bionetworks)
 
-I am passionate about building software that enables Scientists to conduct research and share their data openly.
+I'm passionate about building software that enables Scientists to conduct research and share their data openly.
 
 Here are some projects I have been contributing to lately:
 
