@@ -4,7 +4,7 @@
 
 I am passionate about building software that enables Scientists to conduct and share their data openly.
 
-Here are some projects I have been working on lately:
+Here are some projects I have been contributing to lately:
 
 <table border="1">
   <thead align="center">
