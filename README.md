@@ -1,6 +1,6 @@
-### Hi, I'm Brad
+### Hi, I'm Brad 👋
 
-#### Research Software Engineer at Sage Bionetworks
+#### Research Software Engineer at [Sage Bionetworks](https://github.com/Sage-Bionetworks)
 
 I am passionate about building software that enables Scientists to conduct and share their data openly.
 
