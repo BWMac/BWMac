@@ -63,6 +63,4 @@ Here are some projects I have been contributing to lately:
   </tbody>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwmac)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://myreadme.vercel.app/api/embed/bwmac?panels=userstatistics" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/bwmac?panels=userstatistics,toplanguages" alt="reimaginedreadme" />
