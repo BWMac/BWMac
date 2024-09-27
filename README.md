@@ -62,5 +62,3 @@ Here are some projects I have been contributing to lately:
     </tr>
   </tbody>
 </table>
-
-<img src="https://myreadme.vercel.app/api/embed/bwmac?panels=userstatistics,toplanguages" alt="reimaginedreadme" />
