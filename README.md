@@ -62,5 +62,3 @@ Here are some projects I have been contributing to lately:
     </tr>
   </tbody>
 </table>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BWMac&show_icons=true&theme=transparent)
