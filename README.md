@@ -22,7 +22,7 @@ Here are some projects I have been contributing to lately:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Sage-Bionetworks/synapsepythonclient"><b>synapseclient</b></a></td>
+      <td><a href="https://github.com/Sage-Bionetworks/synapsepythonclient"><b>synapsePythonClient</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Sage-Bionetworks/synapsepythonclient?style=flat-square&labelColor=343b41"/>        </td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Sage-Bionetworks/synapsepythonclient?style=flat-square&labelColor=343b41"/>        </td>
     </tr>
